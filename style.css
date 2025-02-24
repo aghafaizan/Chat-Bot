@@ -1,7 +1,12 @@
-h1{
-    color: red;
+* {
+  padding: 20px;
+  margin: 20px;
 }
 
-h5{
-    color: blueviolet;
+h1 {
+  color: red;
+}
+
+h5 {
+  color: blueviolet;
 }
